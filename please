@@ -1,0 +1,7 @@
+echo "# sombies-are-stinky" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SonicHero171/sombies-are-stinky.git
+git push -u origin main
